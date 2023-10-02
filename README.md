@@ -14,7 +14,7 @@
 
 This GitHub repository contains a refactored version of the Horiseon marketing website. The main purpose of this refactoring effort is to improve the website's codebase by incorporating semantic HTML elements, consolidating CSS styles, and enhancing accessibility through the use of alt text.
 
-The deployed website can be found here: [Horiseon Marketing Website](https://example.com/original-horiseon-website).
+The deployed website can be found here: [Horiseon Marketing Website](https://kane-chang.github.io/marketing-website-refactor/).
 
 ## Features
 
